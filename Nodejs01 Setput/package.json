@@ -1,5 +1,14 @@
 {
-  "dependencies": {
-    "lodash": "^4.18.1"
+  "name": "nodejs01-setput",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js setup demo with testable buildMessages() module.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test/index.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }

@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Backup / editor scratch files
+*.save
+*.swp
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
