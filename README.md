@@ -5,12 +5,8 @@ A learning repository for Node.js covering server-side JavaScript fundamentals, 
 ## Architecture / How it Works
 
 ```mermaid
-flowchart LR
-    A[User] --> B[Node.Js]
-    B --> C{Logic}
-    C --> D[(Data)]
-    C --> E[Output]
-    D --> C
+flowchart TD
+    Documentation[Documentation]
 ```
 
 
